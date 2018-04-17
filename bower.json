@@ -1,0 +1,17 @@
+{
+  "name": "language-translation-starter-kit",
+  "homepage": "https://github.com/isaacg11/language-translation-starter-kit",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-i18n": "^1.1.2"
+  }
+}
